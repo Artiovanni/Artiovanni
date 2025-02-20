@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Arthur Giovanni!  
 
 🎯 **Foco em**: Análise de Dados e Ciência de Dados  
-💡 **Apaixonado por**: Resolver problemas, aprender novas ferramentas e extrair insights de dados  
+💡 **Gosto de**: Resolver problemas, aprender novas ferramentas e extrair insights de dados  
 📍 **Localização**: Guarulhos, SP, Brasil  
 
 ---
